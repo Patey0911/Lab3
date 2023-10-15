@@ -1,0 +1,5 @@
+C:\Users\ok\Desktop\PSSCLab\Lab3\Lab3.Domain\obj\Debug\net6.0\Lab3.Domain.csproj.AssemblyReference.cache
+C:\Users\ok\Desktop\PSSCLab\Lab3\Lab3.Domain\obj\Debug\net6.0\Lab3.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ok\Desktop\PSSCLab\Lab3\Lab3.Domain\obj\Debug\net6.0\Lab3.Domain.AssemblyInfoInputs.cache
+C:\Users\ok\Desktop\PSSCLab\Lab3\Lab3.Domain\obj\Debug\net6.0\Lab3.Domain.AssemblyInfo.cs
+C:\Users\ok\Desktop\PSSCLab\Lab3\Lab3.Domain\obj\Debug\net6.0\Lab3.Domain.csproj.CoreCompileInputs.cache
